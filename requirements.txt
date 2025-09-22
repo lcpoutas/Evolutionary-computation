@@ -1,0 +1,25 @@
+# --- Algoritmos Evolutivos y Optimización ---
+deap
+pygmo
+nevergrad
+inspyred
+
+# --- Ciencia de Datos y Cálculo Numérico ---
+numpy
+scipy
+pandas
+
+# --- Visualización ---
+matplotlib
+seaborn
+
+# --- Utilidades ---
+tqdm
+
+# --- Entorno de Trabajo ---
+jupyter
+notebook
+jupyterlab
+ipykernel
+ipywidgets
+
